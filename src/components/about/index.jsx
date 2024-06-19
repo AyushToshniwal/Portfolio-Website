@@ -84,7 +84,7 @@ const AboutDetails = () => {
 
 				<ItemLayout className={"col-span-full md:col-span-6 !p-0"}>
 					<Link
-						href="https://github.com/AyushToshniwal/brainwave"
+						href="https://github.com/AyushToshniwal/AI-Bio-Generator"
 						target="_blank"
 						className="w-full"
 					>
