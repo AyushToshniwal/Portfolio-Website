@@ -90,7 +90,7 @@ const AboutDetails = () => {
 					>
 						<img
 							className="w-full h-auto"
-							src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/pin/?username=AyushToshniwal&repo=brainware&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
+							src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/pin/?username=AyushToshniwal&repo=AI-Bio-Generator&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
 							alt="AyushToshniwal"
 							loading="lazy"
 						/>
